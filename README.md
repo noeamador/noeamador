@@ -1,5 +1,5 @@
 ### Hi there 👋
-This github account is just for my personal blog post and portfolio.
+This github account is just for my personal website.
 - 🔭 I’m currently working on another account: github.com/noeam
 - 🌱 I’m currently learning infty maths...
 - 👯 I’m looking to collaborate on fun projects...
